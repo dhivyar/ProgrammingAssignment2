@@ -1,4 +1,4 @@
-
+## Click the 'Raw' button to view the console output in the actual format 
 > source("cachematrix.R")
 > a <- matrix(c(8,9,10,11),nrow=2,ncol=2)
 > a
